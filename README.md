@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Marvellous Amos
+---
+#### Glad to meet you
+I'm a professional Frontend Developer with a desire to extend my skillset to the realm of backend development and data engineering.
+
+#### More about me
 
 <!--
 **Marvel-D/Marvel-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
