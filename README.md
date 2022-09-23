@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Marvellous Amos
 ---
 #### Glad to meet you
-I'm a professional Frontend Developer with a desire to extend my skillset to the realm of backend development and data engineering.
+I'm a Frontend Developer with a desire to extend my skillset to the realm of backend development and data engineering.
 
 #### More about me
 
