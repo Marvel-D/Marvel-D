@@ -4,13 +4,13 @@ I am a front-end developer and technical writer. I love creating dynamic and bea
 
 
 #### More about me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning: Angular Framework
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning: React
 - 👯 I’m looking to collaborate on any good project on web development and/or technical writing
 - 💬 Ask me about Css, Javascript, Angular, Typescript and Technical writing
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [amosmarvellous48@gmail.com](amosmarvellous48@gmail.com)
-- ⚡ Fun fact: I'm facinated by the act of data engineering and actively study and share my learning through technical writing
+- ⚡ Fun fact: I enjoy practicing voice-overs
 
 
 
