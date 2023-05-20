@@ -8,9 +8,8 @@ I am a front-end developer and technical writer. I love creating dynamic and bea
 - 🌱 I’m currently learning: React
 - 👯 I’m looking to collaborate on any good project on web development and/or technical writing
 - 💬 Ask me about Css, Javascript, Angular, Typescript and Technical writing
-- 😄 Pronouns: He/Him
 - 📫 How to reach me: [amosmarvellous48@gmail.com](amosmarvellous48@gmail.com)
-- ⚡ Fun fact: I enjoy practicing voice-overs
+- ⚡ Fun fact: I enjoy reading and practicing voice-overs
 
 
 
