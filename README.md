@@ -30,6 +30,6 @@ I am a front-end developer and technical writer. I love creating dynamic web app
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marvel-d&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=marvel-d&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marvel-d&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marvel-d&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
