@@ -32,4 +32,4 @@ I am a front-end developer and technical writer. I love creating dynamic web app
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=marvel-d&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marvel-d&theme=midnight-purple&hide_border=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marvel-d&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marvel-d&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
