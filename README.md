@@ -9,7 +9,7 @@ I am a front-end developer and technical writer. I love creating dynamic web app
 
 ### More About Me:
 🔭 I’m currently working on: project series<br>
-🌱 I’m currently learning: Redux<br>
+🌱 I’m currently learning: Data Structure and Algorithms <br>
 👯 I’m looking to collaborate on any good project on Healthcare or Ecommerce<br>
 💬 Ask me about Javascript, React.js, Next.js, Css, Angular, Typescript and Technical writing<br>
 📫 How to reach me: amosmarvellous48@gmail.com<br>
