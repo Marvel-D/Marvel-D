@@ -1,6 +1,6 @@
-### Hello there 👋, I am Marvellous Amos, the last kulture 🔥 [![](https://visitcount.itsvg.in/api?id=marvel-d&icon=5&color=6)](https://visitcount.itsvg.in)
+### Hello there 👋, I am Marvellous Amos 
 ---
-I am a front-end developer and technical writer. I love creating dynamic web applications while documenting and sharing my knowledge of technology through writing.
+I am a front-end web developer who creates dynamic web software solutions while documenting and sharing my knowledge of technology as a technical writer.
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marvellous-d-amos) 
@@ -8,13 +8,17 @@ I am a front-end developer and technical writer. I love creating dynamic web app
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/marvel_at_don) 
 
 ### More About Me:
-🔭 I’m currently working on: project series<br>
-🌱 I’m currently learning: Data Structure and Algorithms <br>
+🔭 I’m currently working on Carrier (a fleet management system for AMRs) <br>
+🌱 I’m currently learning best practices in software development and operations <br>
+🌍 Actively contributing to the development of the web eccomerce platform at Hiflaya Ltd
 👯 I’m looking to collaborate on any good project on Healthcare or Ecommerce<br>
-💬 Ask me about Javascript, React.js, Next.js, Css, Angular, Typescript and Technical writing<br>
+💬 Ask me about Software development, DevOps and Technical writing<br>
 📫 How to reach me: amosmarvellous48@gmail.com<br>
 ⚡ Fun fact: I enjoy reading and practicing voice-overs
 
+P/S: I'm also available for full-time web engineering roles; check out my work!
+
+<!-- 
 ### Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -29,7 +33,7 @@ I am a front-end developer and technical writer. I love creating dynamic web app
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats: -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=marvel-d&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=marvel-d&theme=midnight-purple&hide_border=false&count_private=true)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marvel-d&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
