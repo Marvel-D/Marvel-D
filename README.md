@@ -11,7 +11,7 @@ I am a front-end web developer who creates dynamic web software solutions while 
 🔭 I’m currently working on Carrier (a fleet management system for AMRs) <br>
 🌱 I’m currently learning best practices in software development and operations <br>
 🌍 Actively contributing to the development of the web eccomerce platform at Hiflaya Ltd <br>
-👯 I’m looking to collaborate on any good project on Healthcare or Ecommerce<br>
+👯 I’m looking to collaborate on innovative embedded and/or software solutions<br>
 💬 Ask me about Software development, DevOps and Technical writing<br>
 📫 How to reach me: amosmarvellous48@gmail.com<br>
 ⚡ Fun fact: I enjoy reading and practicing voice-overs
