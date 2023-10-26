@@ -1,4 +1,4 @@
-### Hello there 👋, I am Marvellous Amos 
+### Hello there 👋, I am Marvel 
 ---
 I am a front-end web developer who creates dynamic web software solutions while documenting and sharing my knowledge of technology as a technical writer.
 
