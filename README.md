@@ -8,11 +8,11 @@ I am a front-end web developer who creates dynamic web software solutions while 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/marvel_at_don) 
 
 ### More About Me:
-🔭 I’m currently working on Carrier (a fleet management system for AMRs) <br>
-🌱 I’m currently learning best practices in software development and operations <br>
+🔭 I’m currently working on Desolate (a farm management system for KultureLabs) <br>
+🌱 I’m currently learning cyber security and mastering best practices in software development <br>
 🌍 Actively contributing to the development of the web eccomerce platform at Hiflaya Ltd <br>
 👯 I’m looking to collaborate on innovative embedded and/or software solutions<br>
-💬 Ask me about Software development, DevOps and Technical writing<br>
+💬 Ask me about Software development, Cyber Security and Technical writing<br>
 📫 How to reach me: amosmarvellous48@gmail.com<br>
 ⚡ Fun fact: I enjoy reading and practicing voice-overs
 
